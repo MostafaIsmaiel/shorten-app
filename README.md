@@ -20,3 +20,7 @@ The users should be able to:
 - Copy the shortened link to their clipboard in a single click
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
+
+You can check live preview on:
+
+--  https://mostafaismaiel.github.io/shorten-app/
