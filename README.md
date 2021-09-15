@@ -1,20 +1,22 @@
-# Forecast weather app
-![background](./public/Background .png)
+# Frontend Mentor - Shortly URL shortening API Challenge
 
-## About
-Forecast weather app has accurate weather information for anytime and everywhere.
-Local weather forecast & real time rain, storm, ice & snow reports...
-Weather forecast detects weather in your current location manually. There are many information in weather forecast which includes weather condition, atmospheric pressure, relative humidity, visibility distance, dew point, wind speed and direction, in addition to three days future forecast.
+![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 
----
-## Features
-- Real-time
-- temperature
-- rain
-- humidity
-- pressure
-- wind force
-- wind direction
+## Welcome! 👋
 
----
-You can check out for [live preview](https://mostafaismaiel.github.io/forecast-weather-app/)
+Thanks for checking out this front-end coding challenge.
+
+## The challenge
+
+The challenge is to build out this landing page, integrate with the [shrtcode API](https://app.shrtco.de/) and get it looking as close to the design as possible.
+
+The users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- Shorten any valid URL
+- See a list of their shortened links, even after refreshing the browser
+- Copy the shortened link to their clipboard in a single click
+- Receive an error message when the `form` is submitted if:
+  - The `input` field is empty
+
+You can check [live preview](https://mostafaismaiel.github.io/shorten-app/)
